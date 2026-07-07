@@ -1,0 +1,11 @@
+node_modules
+dist
+data
+.env*
+.git
+.DS_Store
+*.log
+README.md
+Dockerfile
+docker-compose.yml
+daftar-soal.txt
